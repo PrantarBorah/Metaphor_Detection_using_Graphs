@@ -1,1 +1,1 @@
-# Metaphor_Detection_using_Graphs
+# Metaphor_Detection_using_Graph_Neural_Network
